@@ -5,7 +5,7 @@ App changes text, text colour and background color and reset all to default sett
 
 ### App Walk-though
 `
-![](https://i.imgur.com/3MXofgh.gif)
+![](https://i.imgur.com/jRZTHQs.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
